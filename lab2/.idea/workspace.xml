@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb9a0117-63b5-4d20-b673-8f08cb38467e" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arithmetic/Arithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arithmetic/ArithmeticTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DebugExercise/DebugExercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DebugExercise/DebugExercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntList/AddConstantTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntList/IntList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntList/IntListExercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntList/Primes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntList/SetToZeroIfMaxFELTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntList/SquarePrimesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2.iml" afterDir="false" />
-    </list>
+    <list default="true" id="fb9a0117-63b5-4d20-b673-8f08cb38467e" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
